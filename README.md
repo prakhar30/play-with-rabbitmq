@@ -12,3 +12,6 @@ username - `guest`
 
 password - `guest`
 
+-> Tutorial followed to setup rabbitmq - 
+
+`https://www.dyclassroom.com/howto-mac/how-to-install-rabbitmq-on-mac-using-homebrew`
